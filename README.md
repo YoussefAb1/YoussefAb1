@@ -67,8 +67,8 @@ I’m currently looking for an **end-of-study internship (PFE)** starting **Janu
 
 ## 🌐 Let's Connect
 
-📫 Email: youssef.ab@example.com  
-💼 LinkedIn: [linkedin.com/in/youssefab](https://www.linkedin.com/in/youssef-abounamer/)  
+📫 Email: youssefabounamer10@gmail.com
+💼 LinkedIn: [linkedin.com/in/youssef-abounamer](https://www.linkedin.com/in/youssef-abounamer/)  
 🔗 Portfolio (soon...)
 
 ---
