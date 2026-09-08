@@ -1,85 +1,186 @@
-# 👋 Hello! I'm Youssef Abounamer
+# Hi, I'm Youssef Abounamer 👋
 
-Welcome to my GitHub space! I'm currently a Master's student at FST Settat (University Hassan I), where I'm exploring the world of software development, system engineering, and modern DevOps practices. My goal is to keep learning, building, and sharing as I grow as a developer.
+## Java Backend Engineer
 
----
+I build backend applications with **Java and Spring Boot**, with a strong interest in clean architecture, reliable APIs, databases, testing, and distributed systems.
 
-## 🧠 About Me
-
-🎓 Master’s in Computer Networks & Systems (in progress)  
-🔍 Always curious about how things work under the hood  
-🧰 I enjoy working on real-world projects to turn ideas into solutions  
-🚀 Currently looking for a **PFE internship (Jan 2026)** to gain deeper experience
+My background in **Computer Networks & Information Systems** gives me a broader understanding of the infrastructure, systems, and databases behind modern backend applications.
 
 ---
 
-## 🛠️ Skills & Tools I’m Working With
+## 🧑‍💻 About Me
 
-- **Programming**: Java, Python, JavaScript, PHP  
-- **Web & Desktop Dev**: Spring, Flask, ReactJs, Laravel 
-- **Databases**: MySQL, Oracle  
-- **DevOps Practices**: Docker, Git, GitHub Actions  
-- **Operating Systems**: Ubuntu Centos Linux, WSL2
-
----
-
-## 🌱 What I'm Learning
-
-- Building full-stack apps with modern tools  
-- Containerizing projects with Docker  
-- Exploring cloud deployment and CI/CD  
-- Basic AI & image processing with Python (OpenCV) 
+- 💼 Software Engineering experience at **Capgemini**
+- ☕ Focused on **Java Backend Development**
+- 🌱 Currently deepening my knowledge of **Java 17/21, Spring Boot, Kafka, PostgreSQL, testing, and distributed systems**
+- 🧠 Background in **Networks, Systems, Linux, Databases, and Software Engineering**
+- 🎯 Goal: become a strong backend engineer capable of designing **reliable, maintainable, and scalable systems**
 
 ---
 
-## 🧪 Personal Projects
+## ⚙️ Tech Stack
 
-📷 **Real-Time Person Detection**  
-*Python + OpenCV + socket programming + GUI*  
-→ Detects and captures people in video streams with bounding boxes.
+### Backend
 
-🏢 **Syndic Property Management System**  
-*Laravel + jQuery + MySQL*  
-→ A full-stack web application for managing co-ownership (syndic): apartments, co-owners, expenses, general assemblies, and payments. Features include dashboards, CRUD interfaces, and authentication.
+`Java 17/21` `Spring Boot` `Spring Framework` `Spring Data JPA` `REST APIs`
 
-📚 **Scientific Publication Manager**  
-*JavaFX + MySQL*  
-→ A desktop app for managing scientific publications, researcher profiles, and PDF uploads with a simple MVC structure.
+### Databases
 
-🧩 **ResNet50 Dockerized Model**  
-*Docker + Python + PyTorch + ResNet50*  
-→ A containerized deployment of Microsoft’s ResNet50 deep learning model. Includes model loading, image processing, and REST API interface for predictions.
+`PostgreSQL` `Oracle` `MySQL` `SQL`
 
+### Messaging & Distributed Systems
 
----
+`Apache Kafka` `Event-Driven Architecture`
 
-## 📌 What I'm Looking For
+### Testing & Quality
 
-I’m currently looking for an **end-of-study internship (PFE)** starting **January 2026** in one of the following areas:
-- Software development
-- DevOps & deployment automation
-- Applied AI or data-driven projects
+`JUnit 5` `Mockito` `OpenAPI / Swagger` `SonarQube`
 
-📍 Preferably in Morocco or remote  
-🤝 I’m open to collaboration, mentorship, or freelance opportunities
+### Engineering & DevOps
+
+`Git` `Maven` `Docker` `CI/CD` `GitHub Actions` `Linux`
 
 ---
 
-## 🌐 Let's Connect
+## 💼 Professional Experience
 
-📫 Email: youssefabounamer10@gmail.com
-💼 LinkedIn: [linkedin.com/in/youssef-abounamer](https://www.linkedin.com/in/youssef-abounamer/)  
-🔗 Portfolio (soon...)
+### Software Engineering — Capgemini
+
+Worked on the backend development of an enterprise platform designed to explore and manage database metadata across multiple environments.
+
+Main areas of work included:
+
+- Backend development with **Java 17 and Spring Boot 3**
+- Design and implementation of **REST APIs**
+- Database metadata processing using **JDBC**
+- Integration with **PostgreSQL, Oracle, and MySQL**
+- API contract definition with **OpenAPI / Swagger**
+- Database schema evolution using **Liquibase**
+- DTO mapping, validation, and centralized exception handling
+- Unit testing with **JUnit 5 and Mockito**
+- Code-quality practices using **SonarQube and Spotless**
+- Git-based collaborative development in an enterprise environment
 
 ---
 
-## 🔍 Quick Facts
+## 🚀 Current Focus
 
-- 🏠 Based in Morocco  
-- 🗣️ Languages: Arabic, French, English  
-- ⚙️ Always experimenting, testing, and documenting  
-- 💡 Believe in continuous learning & simplicity in code
+I'm currently strengthening my expertise in:
+
+- Modern Java 17/21
+- Spring Boot backend architecture
+- REST API design
+- PostgreSQL and database performance
+- Apache Kafka
+- Event-driven systems
+- Integration testing
+- Docker and CI/CD
+- Application observability
+- Software design principles and clean code
+
+```text
+Java → Spring Boot → PostgreSQL → Testing → Kafka → Distributed Systems
+```
 
 ---
 
-Thanks for visiting! ⭐ Feel free to explore my repositories and leave a star if something catches your eye.
+## 🧩 Selected Projects
+
+### 📄 CV Data Extraction
+
+An NLP-based application that extracts structured information from PDF resumes.
+
+The system can identify information such as:
+
+- Names
+- Contact information
+- Education
+- Professional experience
+- Skills
+- Companies
+- Locations
+
+**Stack:**  
+`Python` `spaCy` `NER` `Streamlit` `PyMuPDF`
+
+👉 [View Repository](https://github.com/YoussefAb1/CV_data_extraction)
+
+---
+
+## 🛠️ Upcoming Backend Project
+
+I'm currently working toward building a production-style backend project based on:
+
+`Java 21` `Spring Boot` `PostgreSQL` `Kafka` `Docker` `JUnit` `Testcontainers` `OpenAPI` `GitHub Actions`
+
+The objective is to demonstrate:
+
+- Clean backend architecture
+- REST API design
+- Event-driven communication
+- Kafka producers and consumers
+- Retry and Dead Letter Queue strategies
+- Database transactions
+- Automated testing
+- CI/CD
+- Containerized environments
+- Production-oriented engineering practices
+
+---
+
+## 🎓 Education
+
+### Master's Degree — Networks & Information Systems
+
+**FST Settat — Hassan First University**
+
+Academic background covering:
+
+- Software Engineering
+- Computer Networks
+- Operating Systems
+- Databases
+- Linux
+- Systems Administration
+- Distributed Systems
+- Infrastructure fundamentals
+
+---
+
+## 🧠 Engineering Philosophy
+
+I believe strong backend engineering is not only about making an application work.
+
+It is about understanding:
+
+- how the application is structured,
+- how data is stored,
+- how services communicate,
+- how failures are handled,
+- how code is tested,
+- and how software behaves once it reaches production.
+
+That's why I'm building my expertise around both **software engineering and the systems behind it**.
+
+---
+
+## 📈 Professional Direction
+
+My current specialization is:
+
+### Java Backend Engineering
+
+with a long-term focus on:
+
+**Spring Boot · Kafka · Distributed Systems · Cloud Backend Architecture**
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/youssef-abounamer/)
+- 💻 [GitHub](https://github.com/YoussefAb1)
+
+---
+
+### Currently building deeper expertise in Java Backend Engineering ☕
